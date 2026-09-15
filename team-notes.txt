@@ -9,3 +9,9 @@ BRANCH WORKFLOW
 3. Commit focused changes.
 4. Open a Pull Request.
 - Keep unrelated changes out of the Pull Request.
+
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
